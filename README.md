@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Research](https://img.shields.io/badge/Research-SSRN-orange)](https://ssrn.com)
+[![Research](https://img.shields.io/badge/Research-SSRN-orange)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819479)
 
 ---
 
